@@ -1,0 +1,14 @@
+# Node.js files to ignore
+node_modules/
+build/
+
+# Python files to ignore
+__pycache__/
+*.pyc
+.env
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
